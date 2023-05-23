@@ -1,6 +1,6 @@
 package types
 
-import blackfury "github.com/blackfury-zone/blackfury/types"
+import blackfury "github.com/elysium-station/blackfury/types"
 
 const (
 	StakingRewardVestingName = "staking_reward_vesting"

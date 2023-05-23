@@ -9,7 +9,7 @@ import (
 	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
 	ethermint "github.com/tharsis/ethermint/types"
 
-	blackfury "github.com/blackfury-zone/blackfury/types"
+	blackfury "github.com/elysium-station/blackfury/types"
 )
 
 const (

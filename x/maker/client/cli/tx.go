@@ -13,7 +13,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/gov/client/cli"
 	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
 	"github.com/gogo/protobuf/proto"
-	"github.com/blackfury-zone/blackfury/x/maker/types"
+	"github.com/elysium-station/blackfury/x/maker/types"
 	"github.com/spf13/cobra"
 )
 

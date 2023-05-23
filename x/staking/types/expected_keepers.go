@@ -2,7 +2,7 @@ package types
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	vetypes "github.com/blackfury-zone/blackfury/x/ve/types"
+	vetypes "github.com/elysium-station/blackfury/x/ve/types"
 )
 
 // NftKeeper defines the expected interface needed to query NFT tokens.

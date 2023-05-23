@@ -3,7 +3,7 @@ package blackfury.vesting.v1;
 
 import "gogoproto/gogo.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/vesting/types";
+option go_package = "github.com/elysium-station/blackfury/x/vesting/types";
 
 // GenesisState defines the vesting module's genesis state.
 message GenesisState {

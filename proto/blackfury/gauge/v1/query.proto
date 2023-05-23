@@ -6,7 +6,7 @@ import "google/api/annotations.proto";
 import "cosmos/base/query/v1beta1/pagination.proto";
 import "blackfury/gauge/v1/genesis.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/gauge/types";
+option go_package = "github.com/elysium-station/blackfury/x/gauge/types";
 
 // Query defines the gRPC querier service.
 service Query {

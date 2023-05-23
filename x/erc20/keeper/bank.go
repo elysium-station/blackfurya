@@ -7,8 +7,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	"github.com/ethereum/go-ethereum/common"
-	blackfury "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/erc20/types"
+	blackfury "github.com/elysium-station/blackfury/types"
+	"github.com/elysium-station/blackfury/x/erc20/types"
 	"github.com/tharsis/evmos/v4/contracts"
 )
 

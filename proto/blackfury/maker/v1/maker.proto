@@ -4,7 +4,7 @@ package blackfury.maker.v1;
 import "gogoproto/gogo.proto";
 import "cosmos/base/v1beta1/coin.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/maker/types";
+option go_package = "github.com/elysium-station/blackfury/x/maker/types";
 
 // BackingRiskParams represents an object of backing coin risk parameters.
 message BackingRiskParams {

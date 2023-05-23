@@ -8,7 +8,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/address"
 	"github.com/cosmos/cosmos-sdk/x/staking"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
-	"github.com/blackfury-zone/blackfury/x/oracle/types"
+	"github.com/elysium-station/blackfury/x/oracle/types"
 	"github.com/stretchr/testify/require"
 )
 

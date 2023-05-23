@@ -38,9 +38,9 @@ import (
 	"github.com/tendermint/tendermint/types"
 	tmtime "github.com/tendermint/tendermint/types/time"
 
-	blackfury "github.com/blackfury-zone/blackfury/types"
-	makertypes "github.com/blackfury-zone/blackfury/x/maker/types"
-	customvestingtypes "github.com/blackfury-zone/blackfury/x/vesting/types"
+	blackfury "github.com/elysium-station/blackfury/types"
+	makertypes "github.com/elysium-station/blackfury/x/maker/types"
+	customvestingtypes "github.com/elysium-station/blackfury/x/vesting/types"
 
 	"github.com/tharsis/ethermint/crypto/hd"
 	"github.com/tharsis/ethermint/server/config"
@@ -49,7 +49,7 @@ import (
 	evmtypes "github.com/tharsis/ethermint/x/evm/types"
 	evmoskr "github.com/tharsis/evmos/v4/crypto/keyring"
 
-	"github.com/blackfury-zone/blackfury/testutil/network"
+	"github.com/elysium-station/blackfury/testutil/network"
 )
 
 var (

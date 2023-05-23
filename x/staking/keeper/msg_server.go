@@ -10,8 +10,8 @@ import (
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	stakingkeeper "github.com/cosmos/cosmos-sdk/x/staking/keeper"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
-	"github.com/blackfury-zone/blackfury/x/staking/types"
-	vetypes "github.com/blackfury-zone/blackfury/x/ve/types"
+	"github.com/elysium-station/blackfury/x/staking/types"
+	vetypes "github.com/elysium-station/blackfury/x/ve/types"
 )
 
 type MsgServer struct {

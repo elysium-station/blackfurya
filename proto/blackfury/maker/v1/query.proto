@@ -7,7 +7,7 @@ import "blackfury/maker/v1/genesis.proto";
 import "blackfury/maker/v1/maker.proto";
 import "cosmos/base/v1beta1/coin.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/maker/types";
+option go_package = "github.com/elysium-station/blackfury/x/maker/types";
 
 // Query defines the maker gRPC querier service.
 service Query {

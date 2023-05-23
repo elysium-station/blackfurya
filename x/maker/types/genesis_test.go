@@ -3,7 +3,7 @@ package types_test
 import (
 	"testing"
 
-	"github.com/blackfury-zone/blackfury/x/maker/types"
+	"github.com/elysium-station/blackfury/x/maker/types"
 	"github.com/stretchr/testify/require"
 )
 

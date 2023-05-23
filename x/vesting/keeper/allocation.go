@@ -4,8 +4,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
 	vestingtypes "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
-	blackfury "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/vesting/types"
+	blackfury "github.com/elysium-station/blackfury/types"
+	"github.com/elysium-station/blackfury/x/vesting/types"
 	ethermint "github.com/tharsis/ethermint/types"
 )
 

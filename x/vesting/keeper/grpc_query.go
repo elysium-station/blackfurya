@@ -6,7 +6,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/store/prefix"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/query"
-	"github.com/blackfury-zone/blackfury/x/vesting/types"
+	"github.com/elysium-station/blackfury/x/vesting/types"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )

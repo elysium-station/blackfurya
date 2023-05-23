@@ -8,8 +8,8 @@ import (
 	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
-	blackfury "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/erc20/types"
+	blackfury "github.com/elysium-station/blackfury/types"
+	"github.com/elysium-station/blackfury/x/erc20/types"
 	"github.com/tharsis/evmos/v4/contracts"
 )
 

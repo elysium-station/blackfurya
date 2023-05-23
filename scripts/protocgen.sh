@@ -33,5 +33,5 @@ buf protoc \
 $(find "$(pwd)/proto" -maxdepth 5 -name '*.proto')
 
 # move proto files to the right places
-cp -r github.com/blackfury-zone/blackfury/x/* x/
+cp -r github.com/elysium-station/blackfury/x/* x/
 rm -rf github.com

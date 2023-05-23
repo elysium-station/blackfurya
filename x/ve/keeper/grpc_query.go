@@ -6,7 +6,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	"github.com/cosmos/cosmos-sdk/x/nft"
-	"github.com/blackfury-zone/blackfury/x/ve/types"
+	"github.com/elysium-station/blackfury/x/ve/types"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 )

@@ -2,8 +2,8 @@ package ve
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/x/ve/keeper"
-	"github.com/blackfury-zone/blackfury/x/ve/types"
+	"github.com/elysium-station/blackfury/x/ve/keeper"
+	"github.com/elysium-station/blackfury/x/ve/types"
 )
 
 // InitGenesis initializes the capability module's state from a provided genesis

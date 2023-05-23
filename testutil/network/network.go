@@ -17,7 +17,7 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethclient"
-	blackfury "github.com/blackfury-zone/blackfury/types"
+	blackfury "github.com/elysium-station/blackfury/types"
 	"github.com/spf13/cobra"
 	tmcfg "github.com/tendermint/tendermint/config"
 	tmflags "github.com/tendermint/tendermint/libs/cli/flags"
@@ -48,7 +48,7 @@ import (
 	banktypes "github.com/cosmos/cosmos-sdk/x/bank/types"
 	"github.com/cosmos/cosmos-sdk/x/genutil"
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
-	"github.com/blackfury-zone/blackfury/app"
+	"github.com/elysium-station/blackfury/app"
 	"github.com/tharsis/ethermint/crypto/hd"
 
 	"github.com/tharsis/ethermint/encoding"

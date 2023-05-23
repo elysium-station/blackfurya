@@ -3,7 +3,7 @@ package types
 import (
 	"testing"
 
-	blackfury "github.com/blackfury-zone/blackfury/types"
+	blackfury "github.com/elysium-station/blackfury/types"
 	"github.com/stretchr/testify/require"
 )
 

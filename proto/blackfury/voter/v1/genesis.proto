@@ -3,7 +3,7 @@ package blackfury.voter.v1;
 
 import "gogoproto/gogo.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/voter/types";
+option go_package = "github.com/elysium-station/blackfury/x/voter/types";
 
 // GenesisState defines the voter module's genesis state.
 message GenesisState { Params params = 1 [ (gogoproto.nullable) = false ]; }

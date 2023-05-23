@@ -6,9 +6,9 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
 
-	blackfury "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/gauge/types"
-	vetypes "github.com/blackfury-zone/blackfury/x/ve/types"
+	blackfury "github.com/elysium-station/blackfury/types"
+	"github.com/elysium-station/blackfury/x/gauge/types"
+	vetypes "github.com/elysium-station/blackfury/x/ve/types"
 )
 
 type Base struct {

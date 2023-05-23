@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/blackfury-zone/blackfury/x/vesting/types"
+	"github.com/elysium-station/blackfury/x/vesting/types"
 	"github.com/spf13/cobra"
 )
 

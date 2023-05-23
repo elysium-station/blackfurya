@@ -3,8 +3,8 @@ package keeper_test
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	blackfury "github.com/blackfury-zone/blackfury/types"
-	erc20types "github.com/blackfury-zone/blackfury/x/erc20/types"
+	blackfury "github.com/elysium-station/blackfury/types"
+	erc20types "github.com/elysium-station/blackfury/x/erc20/types"
 	"github.com/stretchr/testify/require"
 )
 

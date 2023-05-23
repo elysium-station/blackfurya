@@ -6,7 +6,7 @@ import (
 	"github.com/spf13/cobra"
 
 	"github.com/cosmos/cosmos-sdk/client"
-	"github.com/blackfury-zone/blackfury/x/voter/types"
+	"github.com/elysium-station/blackfury/x/voter/types"
 )
 
 // GetTxCmd returns the transaction commands for this module

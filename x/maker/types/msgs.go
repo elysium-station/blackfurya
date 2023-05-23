@@ -3,7 +3,7 @@ package types
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	blackfury "github.com/blackfury-zone/blackfury/types"
+	blackfury "github.com/elysium-station/blackfury/types"
 )
 
 const (

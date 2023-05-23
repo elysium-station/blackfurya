@@ -3,7 +3,7 @@ package keeper
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	bankkeeper "github.com/cosmos/cosmos-sdk/x/bank/keeper"
-	"github.com/blackfury-zone/blackfury/x/bank/types"
+	"github.com/elysium-station/blackfury/x/bank/types"
 )
 
 func HandleSetDenomMetaDataProposal(ctx sdk.Context, k bankkeeper.Keeper, p *types.SetDenomMetadataProposal) error {

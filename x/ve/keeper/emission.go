@@ -2,7 +2,7 @@ package keeper
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/x/ve/types"
+	"github.com/elysium-station/blackfury/x/ve/types"
 )
 
 type Emitter struct {

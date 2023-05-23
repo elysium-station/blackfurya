@@ -5,7 +5,7 @@ import "google/api/annotations.proto";
 import "gogoproto/gogo.proto";
 import "blackfury/vesting/v1/vesting.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/vesting/types";
+option go_package = "github.com/elysium-station/blackfury/x/vesting/types";
 
 // Msg defines the vesting Msg service.
 service Msg {

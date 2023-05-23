@@ -1,6 +1,6 @@
 package keeper_test
 
-import "github.com/blackfury-zone/blackfury/x/maker/types"
+import "github.com/elysium-station/blackfury/x/maker/types"
 
 func (suite *KeeperTestSuite) TestParams() {
 	makerKeeper := suite.app.MakerKeeper

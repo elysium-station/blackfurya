@@ -2,7 +2,7 @@ package keeper_test
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/types"
+	"github.com/elysium-station/blackfury/types"
 	"github.com/stretchr/testify/require"
 )
 

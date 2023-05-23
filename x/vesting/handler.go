@@ -5,8 +5,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	"github.com/blackfury-zone/blackfury/x/vesting/keeper"
-	"github.com/blackfury-zone/blackfury/x/vesting/types"
+	"github.com/elysium-station/blackfury/x/vesting/keeper"
+	"github.com/elysium-station/blackfury/x/vesting/types"
 )
 
 // NewHandler ...

@@ -5,8 +5,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/staking"
-	"github.com/blackfury-zone/blackfury/x/oracle"
-	"github.com/blackfury-zone/blackfury/x/oracle/keeper"
+	"github.com/elysium-station/blackfury/x/oracle"
+	"github.com/elysium-station/blackfury/x/oracle/keeper"
 	"github.com/stretchr/testify/require"
 )
 

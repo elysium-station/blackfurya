@@ -1,6 +1,6 @@
 package keeper_test
 
-import "github.com/blackfury-zone/blackfury/x/ve/types"
+import "github.com/elysium-station/blackfury/x/ve/types"
 
 func (suite *KeeperTestSuite) TestKeeper_GetParams() {
 	suite.SetupTest()

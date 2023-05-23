@@ -1,4 +1,4 @@
-module github.com/blackfury-zone/blackfury
+module github.com/elysium-station/blackfury
 
 go 1.18
 
@@ -158,8 +158,8 @@ require (
 )
 
 replace (
-	github.com/Gravity-Bridge/Gravity-Bridge/module => github.com/blackfury-zone/gravity/module v0.0.0-20220726103435-1f23555a12c8
-	github.com/cosmos/cosmos-sdk => github.com/blackfury-zone/cosmos-sdk v0.45.4-blackfury.6
+	github.com/Gravity-Bridge/Gravity-Bridge/module => github.com/elysium-station/gravity/module v0.0.0-20220726103435-1f23555a12c8
+	github.com/cosmos/cosmos-sdk => github.com/elysium-station/cosmos-sdk v0.45.4-blackfury.6
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	github.com/keybase/go-keychain => github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4
 	github.com/tendermint/tendermint => github.com/tendermint/tendermint v0.34.19

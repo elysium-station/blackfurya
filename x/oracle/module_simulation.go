@@ -9,9 +9,9 @@ import (
 	"github.com/cosmos/cosmos-sdk/types/module"
 	simtypes "github.com/cosmos/cosmos-sdk/types/simulation"
 	"github.com/cosmos/cosmos-sdk/x/simulation"
-	"github.com/blackfury-zone/blackfury/testutil/sample"
-	oraclesimulation "github.com/blackfury-zone/blackfury/x/oracle/simulation"
-	"github.com/blackfury-zone/blackfury/x/oracle/types"
+	"github.com/elysium-station/blackfury/testutil/sample"
+	oraclesimulation "github.com/elysium-station/blackfury/x/oracle/simulation"
+	"github.com/elysium-station/blackfury/x/oracle/types"
 )
 
 // avoid unused import issue

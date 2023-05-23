@@ -2,7 +2,7 @@ package keeper
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/x/vesting/types"
+	"github.com/elysium-station/blackfury/x/vesting/types"
 )
 
 // GetParams get all parameters as types.Params

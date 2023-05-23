@@ -16,9 +16,9 @@ import (
 	cdctypes "github.com/cosmos/cosmos-sdk/codec/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
-	"github.com/blackfury-zone/blackfury/x/gauge/client/cli"
-	"github.com/blackfury-zone/blackfury/x/gauge/keeper"
-	"github.com/blackfury-zone/blackfury/x/gauge/types"
+	"github.com/elysium-station/blackfury/x/gauge/client/cli"
+	"github.com/elysium-station/blackfury/x/gauge/keeper"
+	"github.com/elysium-station/blackfury/x/gauge/types"
 )
 
 var (

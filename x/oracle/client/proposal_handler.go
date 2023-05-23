@@ -2,8 +2,8 @@ package client
 
 import (
 	govclient "github.com/cosmos/cosmos-sdk/x/gov/client"
-	"github.com/blackfury-zone/blackfury/x/oracle/client/cli"
-	"github.com/blackfury-zone/blackfury/x/oracle/client/rest"
+	"github.com/elysium-station/blackfury/x/oracle/client/cli"
+	"github.com/elysium-station/blackfury/x/oracle/client/rest"
 )
 
 var (

@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/ethereum/go-ethereum/common"
-	testkeeper "github.com/blackfury-zone/blackfury/testutil/keeper"
-	"github.com/blackfury-zone/blackfury/x/erc20/types"
+	testkeeper "github.com/elysium-station/blackfury/testutil/keeper"
+	"github.com/elysium-station/blackfury/x/erc20/types"
 	"github.com/stretchr/testify/require"
 )
 

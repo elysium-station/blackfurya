@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/blackfury-zone/blackfury/x/oracle"
-	"github.com/blackfury-zone/blackfury/x/oracle/keeper"
-	"github.com/blackfury-zone/blackfury/x/oracle/types"
+	"github.com/elysium-station/blackfury/x/oracle"
+	"github.com/elysium-station/blackfury/x/oracle/keeper"
+	"github.com/elysium-station/blackfury/x/oracle/types"
 	"github.com/stretchr/testify/require"
 )
 

@@ -14,9 +14,9 @@ import (
 	vestingtypes "github.com/cosmos/cosmos-sdk/x/auth/vesting/types"
 	"github.com/gorilla/mux"
 	"github.com/grpc-ecosystem/grpc-gateway/runtime"
-	"github.com/blackfury-zone/blackfury/x/vesting/client/cli"
-	"github.com/blackfury-zone/blackfury/x/vesting/keeper"
-	"github.com/blackfury-zone/blackfury/x/vesting/types"
+	"github.com/elysium-station/blackfury/x/vesting/client/cli"
+	"github.com/elysium-station/blackfury/x/vesting/keeper"
+	"github.com/elysium-station/blackfury/x/vesting/types"
 	"github.com/spf13/cobra"
 	abci "github.com/tendermint/tendermint/abci/types"
 )

@@ -7,7 +7,7 @@ import "cosmos/base/query/v1beta1/pagination.proto";
 import "blackfury/vesting/v1/genesis.proto";
 import "blackfury/vesting/v1/vesting.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/vesting/types";
+option go_package = "github.com/elysium-station/blackfury/x/vesting/types";
 
 // Query defines the vesting gRPC querier service.
 service Query {

@@ -3,9 +3,9 @@ package keeper_test
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/query"
-	blacktypes "github.com/blackfury-zone/blackfury/types"
-	"github.com/blackfury-zone/blackfury/x/vesting/keeper"
-	"github.com/blackfury-zone/blackfury/x/vesting/types"
+	blacktypes "github.com/elysium-station/blackfury/types"
+	"github.com/elysium-station/blackfury/x/vesting/keeper"
+	"github.com/elysium-station/blackfury/x/vesting/types"
 	"github.com/tharsis/ethermint/crypto/ethsecp256k1"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"

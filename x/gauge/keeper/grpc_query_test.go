@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	testkeeper "github.com/blackfury-zone/blackfury/testutil/keeper"
-	"github.com/blackfury-zone/blackfury/x/gauge/types"
+	testkeeper "github.com/elysium-station/blackfury/testutil/keeper"
+	"github.com/elysium-station/blackfury/x/gauge/types"
 	"github.com/stretchr/testify/require"
 )
 

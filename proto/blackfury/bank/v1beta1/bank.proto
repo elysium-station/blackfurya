@@ -4,7 +4,7 @@ package blackfury.bank.v1beta1;
 import "gogoproto/gogo.proto";
 import "cosmos/bank/v1beta1/bank.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/bank/types";
+option go_package = "github.com/elysium-station/blackfury/x/bank/types";
 
 // SetDenomMetaDataProposal is a gov Content type to register a DenomMetaData
 message SetDenomMetadataProposal {

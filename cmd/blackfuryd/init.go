@@ -15,7 +15,7 @@ import (
 	stakingtypes "github.com/cosmos/cosmos-sdk/x/staking/types"
 	"github.com/cosmos/go-bip39"
 	"github.com/gogo/protobuf/proto"
-	blackfury "github.com/blackfury-zone/blackfury/types"
+	blackfury "github.com/elysium-station/blackfury/types"
 	evmtypes "github.com/tharsis/ethermint/x/evm/types"
 
 	genutilcli "github.com/cosmos/cosmos-sdk/x/genutil/client/cli"

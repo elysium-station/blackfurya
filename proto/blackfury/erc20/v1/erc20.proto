@@ -3,7 +3,7 @@ package blackfury.erc20.v1;
 
 import "gogoproto/gogo.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/erc20/types";
+option go_package = "github.com/elysium-station/blackfury/x/erc20/types";
 
 // Owner enumerates the ownership of a ERC20 contract.
 enum Owner {

@@ -2,9 +2,9 @@ package keeper
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	vekeeper "github.com/blackfury-zone/blackfury/x/ve/keeper"
-	vetypes "github.com/blackfury-zone/blackfury/x/ve/types"
-	"github.com/blackfury-zone/blackfury/x/voter/types"
+	vekeeper "github.com/elysium-station/blackfury/x/ve/keeper"
+	vetypes "github.com/elysium-station/blackfury/x/ve/types"
+	"github.com/elysium-station/blackfury/x/voter/types"
 )
 
 func (k Keeper) CreateGauge(ctx sdk.Context, depoistDenom string) {

@@ -16,9 +16,9 @@ import (
 	cdctypes "github.com/cosmos/cosmos-sdk/codec/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
-	"github.com/blackfury-zone/blackfury/x/maker/client/cli"
-	"github.com/blackfury-zone/blackfury/x/maker/keeper"
-	"github.com/blackfury-zone/blackfury/x/maker/types"
+	"github.com/elysium-station/blackfury/x/maker/client/cli"
+	"github.com/elysium-station/blackfury/x/maker/keeper"
+	"github.com/elysium-station/blackfury/x/maker/types"
 )
 
 var (

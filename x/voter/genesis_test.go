@@ -3,10 +3,10 @@ package voter_test
 import (
 	"testing"
 
-	keepertest "github.com/blackfury-zone/blackfury/testutil/keeper"
-	"github.com/blackfury-zone/blackfury/testutil/nullify"
-	"github.com/blackfury-zone/blackfury/x/voter"
-	"github.com/blackfury-zone/blackfury/x/voter/types"
+	keepertest "github.com/elysium-station/blackfury/testutil/keeper"
+	"github.com/elysium-station/blackfury/testutil/nullify"
+	"github.com/elysium-station/blackfury/x/voter"
+	"github.com/elysium-station/blackfury/x/voter/types"
 	"github.com/stretchr/testify/require"
 )
 

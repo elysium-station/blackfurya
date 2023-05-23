@@ -7,9 +7,9 @@ import (
 	"github.com/stretchr/testify/suite"
 	tmproto "github.com/tendermint/tendermint/proto/tendermint/types"
 
-	"github.com/blackfury-zone/blackfury/app"
-	"github.com/blackfury-zone/blackfury/x/erc20"
-	"github.com/blackfury-zone/blackfury/x/erc20/types"
+	"github.com/elysium-station/blackfury/app"
+	"github.com/elysium-station/blackfury/x/erc20"
+	"github.com/elysium-station/blackfury/x/erc20/types"
 )
 
 type GenesisTestSuite struct {

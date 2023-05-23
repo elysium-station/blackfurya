@@ -5,7 +5,7 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	paramtypes "github.com/cosmos/cosmos-sdk/x/params/types"
-	"github.com/blackfury-zone/blackfury/types"
+	"github.com/elysium-station/blackfury/types"
 	"gopkg.in/yaml.v2"
 )
 

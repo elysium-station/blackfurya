@@ -4,7 +4,7 @@ package blackfury.erc20.v1;
 import "gogoproto/gogo.proto";
 import "blackfury/erc20/v1/erc20.proto";
 
-option go_package = "github.com/blackfury-zone/blackfury/x/erc20/types";
+option go_package = "github.com/elysium-station/blackfury/x/erc20/types";
 
 // GenesisState defines the module's genesis state.
 message GenesisState {
